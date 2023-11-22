@@ -26,15 +26,7 @@ Steps to run the application locally:
    Update-Database
    ```
 
-### Running the Application
-
-1. Set the `TaskManagement` project as the startup project.
-
-2. Press `Ctrl + F5` or click on the "Start" button to run the application.
-
-3. Open a web browser and navigate to `https://localhost:yourport/` to view the application.
-
-4. Features :
+### Features :
 
 - The application allows you to manage tasks:
   - View your tasks list
