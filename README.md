@@ -7,9 +7,6 @@ This is a simple Task Management application built using ASP.NET MVC for managin
 
 Steps to run the application locally:
 
-
-### Installation
-
 1. Clone this repository
 
 2. Open the solution in Visual Studio.
